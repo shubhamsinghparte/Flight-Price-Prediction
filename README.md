@@ -14,7 +14,7 @@
 ## Demo
 Link: [https://flight-price-prediction-api.herokuapp.com/](https://flight-price-prediction-ssp-api.herokuapp.com/)
 
-[![]()
+[![](IMG_20211001_005052.jpg)
 
 [![](https://i.imgur.com/p0aeL6c.png)](https://flight-price-prediction-api.herokuapp.com/)
 
